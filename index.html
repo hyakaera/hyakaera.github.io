@@ -4,6 +4,41 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trash of the Week</title>
+	
+	<style>
+		body{
+			background: repeating-radial-gradient(#e66465, #9198e5 20%);
+			font-size: 10px;
+			border: solid pink 20px;
+			padding: 150px;
+			margin: 20px;
+			width: 400px;
+			
+				
+		}
+		h1{
+			color: antiquewhite;
+			size: 50px;
+			background: #F1696B;
+		}
+		
+		h2{
+			color:deeppink;
+			font-size: 50px;
+		}
+		h3{
+			background: radial-gradient(green, orange);
+		}
+		p{
+			color:yellow;
+			font-size: 20px;
+			background: repeating-linear-gradient(blue, pink, purple);
+			padding: 50px;
+			border-color: pink 20px;
+			border-radius: 20px;
+			
+		}
+	</style>
 </head>
 
 
@@ -217,5 +252,3 @@
 	</div>
 </body>
 </html>
-
-
