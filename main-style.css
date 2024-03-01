@@ -93,6 +93,12 @@
 		.link{
 			color: black;
 		}
+		.link a:hover {
+    		background-color: #ddd;
+    		color: blue;
+		border-radius: 0px;
+		padding: 7px 10px 8px 10px;
+  		}
 		a.thach{
 			color: black;
 		}
