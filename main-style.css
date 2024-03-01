@@ -88,14 +88,14 @@
 			color: aliceblue
 		}
 		a.link{
-			color: black;
+			color: blue;
 		}
 		.link{
-			color: black;
+			color: blue;
 		}
 		.link a:hover {
     		background-color: #ddd;
-    		color: blue;
+    		color: black;
 		border-radius: 0px;
 		padding: 7px 10px 8px 10px;
   		}
