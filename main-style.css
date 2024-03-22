@@ -125,7 +125,16 @@
 			border-radius: 0px;
 			padding: 7px 10px 8px 10px;
   		}
+
+		header.site-header {
+			margin: 0 0 1em;
+		}
 		
+		.site-logo-image {
+			height: 32px;
+		}
+		
+
 
 		h1{
 			font-size: 40px;
